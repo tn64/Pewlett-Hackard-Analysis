@@ -1,10 +1,8 @@
-<!-- Image downloaded from pexels.com>
+<!-- Image downloaded from pexels.com-->
 
 <img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Header.png>
 
-# Pewlett-Hackard-Analysis
-
-<img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Header.png>
+# Pewlett-Hackard Retirement Analysis
 
 ## Overview of the analysis:
 
@@ -18,9 +16,21 @@ After this was reported to the senior management of the company, they have decid
 Initial statement
 
 - Retirement Titles
+
+<img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Retirement_Titles.png>
+
 - Unique Titles
+
+<img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Unique_Titles.png>
+
 - Retiring Titles
+
+<img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Retiring_Titles.png>
+
 - Employees Eligible for the Mentorship Program
+
+<img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Mentorship_Eligibility.png>
+
 
 
 ## Summary:
