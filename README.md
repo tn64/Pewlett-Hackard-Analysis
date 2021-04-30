@@ -1,4 +1,10 @@
+<!-- Image downloaded from pexels.com>
+
+<img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Header.png>
+
 # Pewlett-Hackard-Analysis
+
+<img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Header.png>
 
 ## Overview of the analysis:
 
