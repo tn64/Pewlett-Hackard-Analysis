@@ -56,7 +56,7 @@ As seen above, a mentorship program to "train from within" for the upcooming "si
 
 There are two additional queries that might provide additional insights into the looming challenge:
 
-1. One
+1. Because some soon-to-retire employees have held multiple titles, they could conceivably mentor junion employees at more than one level. A query of soon-to-retire employees including all the titles they have held and ordered by employee number (in case a name has been changed throughout the course of their employment -- i.e. through marriage) would provide this information.
 
-2. Two
+2. Another possibility is that since the mentorship program will result in a number of vacancies at the levels the junior employees would soon be promoted from, there may be an opportunity for another mentorship program to help fill these vacancies. A query similar to the one for employees eligible for the mentorship program, with dates adjusted accordingly, would provide data on whether this approach is feasible.
 
