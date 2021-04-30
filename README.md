@@ -13,28 +13,50 @@ After this was reported to the senior management of the company, they have decid
 
 ## Results:
 
-Initial statement
+The analysis for the retiring employees and mentorship-eligible current employees was accomplished by creating four tables: Retirement Titles, Unique Titles, Retiring Titles, and Mentorship Eligibility.
 
 - Retirement Titles
 
+The first step was to determine all of the titles held by employees who were approaching retirement. This table, however, potentially listed employees more than once since some employees have had multiple titles throughout their carreer with Pewlett-Hackard. That table is listed below.
+
 <img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Retirement_Titles.png>
+
 
 - Unique Titles
 
+Because of the potential multiple listing mentioned above, a second table was created to get the unique titles for each employee approaching retirement. Furthermore, this would be their current title.
+
 <img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Unique_Titles.png>
+
 
 - Retiring Titles
 
+This made it possible to create a different table that shows how many of each type of title is currently held by an employee approaching retirement. 
+
 <img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Retiring_Titles.png>
+
 
 - Employees Eligible for the Mentorship Program
 
-<img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Mentorship_Eligibility.png>
+Finally, another table was created to show the employees who are eligible for the mentorship program.
 
+<img src=https://github.com/tn64/Pewlett-Hackard-Analysis/blob/main/Pewlett-Hackard_Analysis_Folder/Resources/Mentorship_Eligibility.png>
 
 
 ## Summary:
 
 ### The Coming "Silver Tsunami"
 
+Pewlett-Hackard does indeed face the problem of a vacuum of senior-level employees. This would cause significant problems across all levels of the company and to the company's ability to compete in the marketplace. Unless addressed, this could be devastating to the company.
+
+As seen above, a mentorship program to "train from within" for the upcooming "silver tsunami" would offset, though not completely address, the coming challenge.
+
+
 ### Two Additional Queries That May Provide More Insight 
+
+There are two additional queries that might provide additional insights into the looming challenge:
+
+1. One
+
+2. Two
+
