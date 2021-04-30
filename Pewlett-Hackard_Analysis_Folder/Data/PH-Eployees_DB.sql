@@ -16,6 +16,8 @@ CREATE TABLE employees(
 	PRIMARY KEY (emp_no)
 );
 
+SELECT * FROM employees;
+
 CREATE TABLE dept_manager (
 	dept_no varchar(4) NOT NULL,
 	emp_no INT NOT NULL,
@@ -49,3 +51,4 @@ CREATE TABLE titles (
 	to_date DATE NOT NULL,
 	FOREIGN KEY (emp_no) REFERENCES employees (emp_no)
 );
+
